@@ -15,7 +15,8 @@ set(EXAMPLE_FILES
     14_synchronous_custom_preprocessing.cpp
     15_synchronous_custom_postprocessing.cpp
     16_synchronous_custom_output.cpp
-    17_synchronous_custom_all_and_datum.cpp)
+    17_synchronous_custom_all_and_datum.cpp
+    my_code.cpp)
 
 include(${CMAKE_SOURCE_DIR}/cmake/Utils.cmake)
 
