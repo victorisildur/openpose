@@ -139,27 +139,16 @@ public:
                 // datumPtr->poseKeypoints: Array<float> with the estimated pose
             if (datumsPtr != nullptr && !datumsPtr->empty())
             {
-                // Show in command line the resulting pose keypoints for body, face and hands
-                op::log("\nKeypoints:");
                 // Accesing each element of the keypoints
                 const auto& poseKeypoints = datumsPtr->at(0)->poseKeypoints;
                 const auto& poseIds = datumsPtr->at(0)->poseIds;
-                for (auto i = 0u ; i < poseIds.getVolume() ; i++)
-                {
-                    op::log("pose id:" + std::to_string(poseIds[i]));
-                }
-                op::log("Person pose keypoints:");
                 for (auto person = 0 ; person < poseKeypoints.getSize(0) ; person++)
                 {
-                    op::log("Person " + std::to_string(person) + " (x, y, score):");
                     for (auto bodyPart = 0 ; bodyPart < poseKeypoints.getSize(1) ; bodyPart++)
                     {
                         std::string valueToPrint;
                         for (auto xyscore = 0 ; xyscore < poseKeypoints.getSize(2) ; xyscore++)
                         {
-                            if (person == 0) {
-                                valueToPrint += "me: ";
-                            }
                             valueToPrint += std::to_string(   poseKeypoints[{person, bodyPart, xyscore}]   ) + " ";
                         }
                         op::log(valueToPrint);
