@@ -48,8 +48,9 @@ if __name__ == '__main__':
     xy8s = np.array(xys[8])
     xy9s = np.array(xys[9])
     xy10s = np.array(xys[10])
+    xy11s = np.array(xys[11])
     # 作图
-    fig, (ax1, ax2, ax3) = plt.subplots(nrows=3, ncols=1, figsize=(8,4))
+    fig, (ax1, ax2, ax3, ax4, ax5) = plt.subplots(nrows=5, ncols=1, figsize=(8,4))
     # 髋关节角度
     ma_x = xy1s[...,0] - xy8s[...,0]
     ma_y = xy1s[...,1] - xy8s[...,1]
@@ -92,5 +93,25 @@ if __name__ == '__main__':
     angleAMB = np.arccos(cos_M)/np.pi * 180
     ax3.scatter(np.array(x),angleAMB)
     ax3.set_title("elbow joint angle")
+    # 膝盖角度
+    ma_x = xy9s[...,0] - xy10s[...,0]
+    ma_y = xy9s[...,1] - xy10s[...,1]
+    mb_x = xy10s[...,0] - xy11s[...,0]
+    mb_y = xy10s[...,1] - xy11s[...,1]
+    ab_x = xy9s[...,0] - xy11s[...,0]
+    ab_y = xy9s[...,1] - xy11s[...,1]
+    ab_val2 = ab_x * ab_x + ab_y * ab_y
+    ma_val2 = ma_x * ma_x + ma_y * ma_y
+    mb_val2 = mb_x * mb_x + mb_y * mb_y
+    cos_M = (ma_val2+mb_val2-ab_val2) / (2 * np.sqrt(ma_val2)*np.sqrt(mb_val2))
+    angleAMB = np.arccos(cos_M)/np.pi * 180
+    ax4.scatter(np.array(x),angleAMB)
+    ax4.set_title("knee joint angle")
+    # 肩膀高度
+    ax5.plot(np.array(x),np.subtract(720, xy2s[...,1]))
+    ax5.set_title("shoulder height")
+    # 手腕高度
+    ax5.plot(np.array(x),np.subtract(720, xy4s[...,1]))
+    ax5.set_title("wrist height")
     fig.tight_layout()
     plt.show()
