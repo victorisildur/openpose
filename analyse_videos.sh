@@ -1,6 +1,6 @@
 #!/bin/bash
 video_dir=./examples/media/basketball
-videos=`ls ${video_dir}`
+videos=`ls ${video_dir} -tr | grep 0711`
 echo ${videos}
 for video in ${videos}
 do
