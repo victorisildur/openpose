@@ -71,10 +71,12 @@ if __name__ == '__main__':
     l5, = ax.plot(t, knee_angle, label='knee angle', linestyle='dashed')
     l8, = ax.plot(t, wrist_x, label='wrist x', linestyle='dashdot')
     l10, = ax.plot(t, ankle_angle, label='ankle angle', linestyle='dashdot')
+    l12, = ax.plot(t, knee_angle + hip_angle, label='knee + hip angle', linestyle='dashdot')
     lines = [l0, l1, l6, l7, l9, l11, l2, l3, l4, l5, l8, l10]
+    ax.set_yticks(np.arange(0, 720, 50))
     plt.legend()
     plt.subplots_adjust(left=0.2)
-    plt.grid()
+    plt.grid(True)
 
     # Make checkbuttons with all plotted lines with correct visibility
     rax = plt.axes([0.05, 0.4, 0.1, 0.15])
