@@ -2,6 +2,10 @@ Starting OpenPose demo...
 Configuring OpenPose...
 Starting thread(s)...
 Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting at GPU 0.
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 537.247437 180.843735 0.892859 
 486.332611 241.452026 0.775317 
 496.140778 241.517776 0.840170 
@@ -28,6 +32,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 472.640045 686.167419 0.346588 
 411.887177 678.368469 0.629547 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 537.239319 180.837402 0.894121 
 486.337830 241.461639 0.787541 
 496.169067 241.553299 0.843497 
@@ -54,6 +68,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 474.572601 684.281433 0.390994 
 411.923981 680.243958 0.646326 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 537.228821 180.833313 0.894515 
 486.343475 241.473816 0.789813 
 496.187683 243.349319 0.841713 
@@ -80,6 +104,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 472.629059 686.188354 0.370247 
 411.910187 678.370300 0.648620 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 535.369568 180.845001 0.888580 
 486.339050 241.518600 0.789270 
 496.210236 243.401962 0.832328 
@@ -106,6 +140,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 472.607971 686.218323 0.353000 
 411.897125 678.378113 0.649568 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 535.367004 180.844162 0.888598 
 486.346802 241.517349 0.786443 
 496.206818 243.398773 0.833122 
@@ -132,6 +176,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 472.610809 686.221985 0.350673 
 411.897583 678.376892 0.646365 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 535.352722 180.858704 0.881236 
 486.336853 243.357330 0.782687 
 496.209930 243.435471 0.829692 
@@ -158,6 +212,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 468.744415 688.161255 0.334129 
 411.880249 678.330750 0.656251 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 537.220337 182.707916 0.871342 
 486.330597 243.363083 0.785965 
 498.090393 243.472351 0.821357 
@@ -184,6 +248,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 468.745392 688.164124 0.344009 
 411.886536 678.331543 0.663574 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 535.350891 182.746124 0.857056 
 486.328003 243.385269 0.781415 
 496.219574 243.468811 0.827201 
@@ -210,6 +284,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 464.859253 690.103516 0.305458 
 409.944305 676.410217 0.661059 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 535.312622 182.748108 0.852995 
 486.355316 243.374069 0.789744 
 496.234406 243.471512 0.829726 
@@ -236,6 +320,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 464.842133 688.180908 0.322875 
 409.978149 676.392944 0.672556 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 535.314331 182.745544 0.853956 
 486.355682 243.375992 0.790157 
 496.237457 243.472794 0.828497 
@@ -262,6 +356,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 468.712860 686.235229 0.353455 
 411.882385 676.420593 0.672527 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 535.300537 182.708954 0.865434 
 486.328491 241.544342 0.797043 
 496.228973 243.451370 0.837252 
@@ -288,6 +392,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 468.724091 688.135254 0.339738 
 409.961456 676.405945 0.680731 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 533.408936 182.709625 0.860916 
 484.426941 243.352036 0.808817 
 496.236023 243.504211 0.827923 
@@ -314,6 +428,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 474.556793 684.258179 0.404811 
 413.778503 678.308472 0.700046 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 533.379700 182.733200 0.855435 
 482.476135 243.392517 0.815183 
 496.197479 243.539352 0.829975 
@@ -340,6 +464,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.563629 682.307495 0.551894 
 413.922363 676.393494 0.694720 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 533.377014 182.738266 0.852865 
 482.470459 243.411072 0.814929 
 496.199463 243.546082 0.827213 
@@ -366,6 +500,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.579346 682.303833 0.549593 
 413.935638 676.384705 0.684471 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 533.383423 182.739700 0.853673 
 482.465424 243.412842 0.815552 
 496.198547 243.547943 0.826865 
@@ -392,6 +536,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.586761 682.303650 0.558917 
 415.765900 676.378967 0.687387 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 533.371216 182.721848 0.857412 
 484.373566 243.438599 0.805599 
 496.230743 245.407684 0.807397 
@@ -418,6 +572,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.574646 682.280396 0.561793 
 413.916107 676.364014 0.668995 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 531.433289 182.717911 0.865072 
 484.383667 243.474274 0.799617 
 496.220184 245.429581 0.801191 
@@ -444,6 +608,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.473083 682.215454 0.658849 
 415.896179 672.482544 0.663507 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 531.418152 182.707352 0.865497 
 482.457794 245.351974 0.806437 
 498.160217 247.369034 0.768248 
@@ -470,6 +644,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.488007 680.354309 0.725352 
 417.822998 672.473877 0.671894 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 529.486877 182.727829 0.861387 
 480.559753 245.373917 0.807906 
 498.117584 247.355362 0.781145 
@@ -496,6 +680,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.624329 682.213196 0.699139 
 415.910797 672.475891 0.706310 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 529.487183 182.727295 0.861701 
 480.552582 245.372452 0.810444 
 498.120392 247.356644 0.781069 
@@ -522,6 +716,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.469452 682.214478 0.696150 
 415.906494 672.473694 0.706438 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 529.433655 182.711517 0.872837 
 482.412262 245.400894 0.807716 
 498.131073 247.385986 0.780834 
@@ -548,6 +752,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.620972 680.377441 0.719549 
 417.775146 672.478027 0.714298 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 527.506897 182.683502 0.892037 
 480.508362 245.403076 0.826736 
 498.139954 247.382370 0.781397 
@@ -574,6 +788,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.623108 680.356750 0.758694 
 417.814178 670.538208 0.733363 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 527.513550 182.725815 0.877124 
 478.637604 245.441269 0.830907 
 498.117645 249.281616 0.781669 
@@ -600,6 +824,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.606903 680.366028 0.758155 
 417.800995 670.513733 0.741630 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 525.618408 182.714844 0.900004 
 478.618927 247.319824 0.828881 
 498.090454 249.293686 0.784859 
@@ -626,6 +860,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.577942 682.203613 0.726361 
 417.760376 668.633667 0.744118 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 525.617798 182.716568 0.899560 
 478.616882 247.321411 0.828539 
 498.089355 249.294952 0.784557 
@@ -652,6 +896,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.573914 682.204224 0.725469 
 417.761444 668.635986 0.743544 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 525.602783 182.689621 0.908750 
 478.612854 245.461502 0.834109 
 498.098389 249.293152 0.784864 
@@ -678,6 +932,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.602112 682.206970 0.723387 
 417.782745 668.627930 0.740205 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 525.549072 182.726044 0.911447 
 478.569183 247.384903 0.841909 
 496.223114 249.317749 0.789271 
@@ -704,6 +968,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.622528 680.382629 0.746072 
 417.823517 670.509460 0.745547 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 523.650940 184.635910 0.900724 
 478.534943 247.401062 0.846288 
 496.201630 249.341385 0.792490 
@@ -730,6 +1004,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.598572 682.242004 0.720876 
 415.923370 670.547241 0.762586 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 523.630798 184.632477 0.903146 
 478.503845 249.324326 0.846872 
 496.197632 249.337509 0.794658 
@@ -756,6 +1040,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.591492 682.224915 0.741261 
 417.833649 672.462646 0.754973 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 523.631470 184.641907 0.902205 
 478.504852 249.326630 0.846839 
 496.200104 249.341156 0.793963 
@@ -782,6 +1076,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.597534 682.233826 0.739567 
 417.831757 672.471436 0.753149 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 523.575256 184.695557 0.890101 
 478.466431 249.347061 0.840201 
 496.135101 249.352020 0.802001 
@@ -808,6 +1112,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.571960 682.247742 0.733217 
 417.796234 670.555176 0.774557 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 523.518372 186.612000 0.873491 
 476.632599 251.276672 0.848699 
 496.128357 251.285309 0.805007 
@@ -834,6 +1148,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.594482 682.236572 0.757307 
 417.823578 670.518982 0.763311 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 521.620361 190.500000 0.845830 
 476.575409 251.303482 0.852997 
 494.285431 251.282288 0.808158 
@@ -860,6 +1184,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.616669 682.253906 0.756102 
 417.829865 668.628723 0.766548 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 519.702332 186.655304 0.828696 
 476.519562 253.239990 0.845003 
 494.266022 251.296494 0.808822 
@@ -886,6 +1220,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.484894 682.231201 0.766734 
 417.840729 668.550049 0.761650 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 519.701050 186.653900 0.828670 
 476.521484 253.237213 0.845095 
 494.267914 251.294556 0.808339 
@@ -912,6 +1256,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.481812 682.233521 0.765683 
 417.839569 668.549194 0.763266 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 517.725586 186.658279 0.826062 
 474.607544 255.155258 0.841157 
 494.249084 253.194427 0.811579 
@@ -938,6 +1292,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.616516 682.244080 0.744878 
 417.802155 668.558472 0.764550 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 515.752869 186.624237 0.823985 
 472.673706 255.214539 0.843003 
 494.229980 253.239090 0.811451 
@@ -964,6 +1328,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.588501 682.265869 0.716872 
 417.780823 668.566467 0.766500 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 511.911865 186.633865 0.836543 
 472.620697 257.051086 0.838960 
 494.166046 253.237564 0.810619 
@@ -990,6 +1364,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.553619 682.348511 0.655561 
 417.761841 668.577637 0.775556 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 511.864410 188.555710 0.843086 
 470.681061 257.064880 0.842079 
 494.160461 253.249588 0.810522 
@@ -1016,6 +1400,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.507996 684.229675 0.604734 
 415.898895 668.603821 0.758669 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 511.862183 188.554962 0.843121 
 470.680664 257.065491 0.840750 
 494.158203 253.248627 0.809937 
@@ -1042,6 +1436,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 474.598175 684.239380 0.586715 
 415.872772 668.593811 0.767648 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 509.963989 188.595612 0.864940 
 470.663727 257.054077 0.833427 
 494.150848 253.240143 0.803220 
@@ -1068,6 +1472,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.527710 684.208130 0.626845 
 417.769501 668.563171 0.741315 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 509.898163 188.546280 0.879823 
 468.713562 257.053467 0.836354 
 492.281494 253.228027 0.801950 
@@ -1094,6 +1508,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.555389 684.244324 0.634701 
 415.913452 668.578247 0.738440 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 509.793488 188.589828 0.885181 
 466.778076 257.087769 0.859276 
 492.255402 253.246017 0.809551 
@@ -1120,6 +1544,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.585815 684.270874 0.606611 
 415.843750 668.539001 0.724362 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 507.951599 188.612045 0.879584 
 466.747742 257.064270 0.863730 
 492.273651 253.212601 0.805928 
@@ -1146,6 +1580,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 474.616821 686.188416 0.556827 
 415.840302 666.670654 0.745034 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 507.950439 190.485260 0.880094 
 466.754181 257.064026 0.862551 
 492.273224 253.209671 0.806161 
@@ -1172,6 +1616,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 474.616058 686.185059 0.559424 
 415.845978 666.670166 0.744804 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 507.911469 190.531952 0.890274 
 464.845734 257.072418 0.875477 
 492.225067 253.235794 0.800461 
@@ -1198,6 +1652,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 474.593262 684.281433 0.558023 
 415.833923 666.605408 0.742536 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 507.833679 192.451645 0.886366 
 464.794586 257.036621 0.874909 
 492.182098 251.299179 0.794350 
@@ -1224,6 +1688,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 470.704285 686.183105 0.519659 
 413.935883 666.613037 0.722819 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 505.938721 192.439148 0.864827 
 462.921417 257.063843 0.898554 
 492.176758 253.185043 0.789674 
@@ -1250,6 +1724,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 468.739075 686.222473 0.496623 
 413.893951 666.573669 0.734157 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 503.991180 190.489395 0.840509 
 462.857452 257.060913 0.910971 
 492.155334 251.277451 0.779548 
@@ -1276,6 +1760,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.602997 682.350952 0.673974 
 419.750031 666.669617 0.679110 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 503.996216 190.484818 0.840509 
 462.860291 257.059723 0.910438 
 492.154846 251.276352 0.779346 
@@ -1302,6 +1796,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.612396 682.342651 0.686609 
 419.768616 666.671692 0.678032 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 502.044434 190.504257 0.831685 
 462.807068 257.044708 0.914956 
 490.270813 249.332352 0.784413 
@@ -1328,6 +1832,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.477570 682.335083 0.706148 
 419.771545 666.639404 0.694901 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 500.060455 190.516754 0.829670 
 462.777130 255.211700 0.905685 
 490.249756 249.276215 0.784315 
@@ -1354,6 +1868,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.603027 682.341675 0.687035 
 419.784729 666.599060 0.700074 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 498.134338 190.510773 0.833897 
 460.880951 255.181091 0.897088 
 484.390259 247.373581 0.781027 
@@ -1380,6 +1904,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.547302 684.201050 0.646415 
 419.738190 666.570374 0.704362 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 496.208740 188.594421 0.845096 
 460.844513 255.193314 0.895486 
 484.396698 247.360214 0.784635 
@@ -1406,6 +1940,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.563995 682.338318 0.663806 
 421.707977 666.580261 0.675286 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 496.209412 188.594574 0.844961 
 460.846558 255.190750 0.894436 
 484.392120 247.361710 0.784382 
@@ -1432,6 +1976,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.561005 682.342590 0.660310 
 421.690765 666.577881 0.674933 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 496.162079 188.596710 0.861593 
 460.837128 255.112991 0.867656 
 484.398590 243.521957 0.799442 
@@ -1458,6 +2012,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.549011 682.343994 0.650185 
 421.682312 666.564453 0.658968 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 494.289825 190.509949 0.881073 
 460.816467 255.140854 0.872786 
 484.424072 243.507141 0.799744 
@@ -1484,6 +2048,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.556061 682.350037 0.650016 
 421.701660 666.576782 0.672691 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 494.249207 188.612671 0.894197 
 460.799591 253.244507 0.858338 
 482.478027 243.456894 0.817023 
@@ -1510,6 +2084,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.541779 682.333618 0.649808 
 421.736877 666.570190 0.664932 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 494.178650 186.641174 0.903994 
 458.970551 253.196609 0.845898 
 482.477051 243.381653 0.826263 
@@ -1536,6 +2120,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.535492 682.342529 0.646281 
 421.711182 666.549561 0.683571 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 494.184204 186.624908 0.905913 
 458.962097 253.209320 0.844436 
 482.458313 243.390839 0.823146 
@@ -1562,6 +2156,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.565979 682.337341 0.658446 
 421.733582 666.549927 0.665125 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 494.138336 186.612091 0.907771 
 458.923859 251.273987 0.827327 
 480.553314 241.555527 0.835573 
@@ -1588,6 +2192,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.543884 682.348145 0.644144 
 421.716095 666.546509 0.667960 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 492.312469 184.622726 0.925938 
 458.895599 249.350296 0.822255 
 480.513916 241.513062 0.850491 
@@ -1614,6 +2228,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.537048 682.345093 0.648566 
 421.721222 666.546143 0.663948 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 492.260956 184.623917 0.912130 
 458.872406 249.280716 0.813284 
 480.498657 241.456009 0.844421 
@@ -1640,6 +2264,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.523590 682.352844 0.642530 
 421.697021 666.548523 0.679872 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 490.301117 184.639984 0.870789 
 456.972168 245.448746 0.811099 
 478.597900 241.358643 0.827635 
@@ -1666,6 +2300,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.540741 682.350708 0.659878 
 421.703827 666.571472 0.683238 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 490.300934 184.640137 0.870758 
 456.970612 245.449326 0.810396 
 478.596466 241.357681 0.827291 
@@ -1692,6 +2336,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.543182 682.346558 0.662125 
 421.692688 666.570496 0.687095 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 490.223785 182.680222 0.869686 
 456.968689 245.358383 0.822159 
 480.469055 239.481766 0.805888 
@@ -1718,6 +2372,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.555878 682.334839 0.668828 
 419.788086 666.564880 0.682706 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 488.325287 180.816132 0.874553 
 456.934418 243.424515 0.841926 
 478.576294 237.521347 0.787593 
@@ -1744,6 +2408,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.565308 682.329407 0.683040 
 419.782532 666.545837 0.697069 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 486.359772 178.829239 0.870567 
 455.043976 243.359894 0.834193 
 478.513336 235.567215 0.787317 
@@ -1770,6 +2444,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.556366 682.347412 0.670699 
 419.759644 666.567505 0.708711 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 486.361664 178.795319 0.872040 
 455.028870 241.409607 0.833589 
 478.551544 229.759766 0.801052 
@@ -1796,6 +2480,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.589325 682.303101 0.696127 
 421.687103 664.712952 0.685062 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 486.362549 178.795029 0.871958 
 455.026825 241.409317 0.833183 
 478.547699 229.760544 0.800767 
@@ -1822,6 +2516,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.583435 682.306030 0.690655 
 419.788177 664.709961 0.685979 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 484.390930 178.756973 0.855375 
 455.033844 239.490265 0.807146 
 478.557526 227.776764 0.841358 
@@ -1848,6 +2552,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.573334 682.326782 0.694644 
 421.714935 666.550537 0.702780 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 484.373108 174.819809 0.828474 
 455.008850 237.529083 0.777606 
 478.480743 225.874481 0.849207 
@@ -1874,6 +2588,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.608063 682.337708 0.704211 
 421.739075 666.546936 0.724567 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 486.364410 172.905701 0.830785 
 454.989532 231.725021 0.761506 
 478.481079 223.848282 0.819750 
@@ -1900,6 +2624,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.587250 682.358154 0.682948 
 421.698486 666.572571 0.728659 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 486.347443 172.864059 0.830401 
 454.999573 229.689774 0.781654 
 478.457794 219.940506 0.802150 
@@ -1926,6 +2660,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.605591 682.354248 0.670395 
 421.704803 666.563965 0.725779 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 486.352783 172.867523 0.829923 
 454.993927 229.690903 0.781354 
 478.458618 219.941284 0.801821 
@@ -1952,6 +2696,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.603363 682.352600 0.672769 
 421.707855 666.563843 0.726805 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 482.461029 167.077545 0.846314 
 453.041779 227.783813 0.816816 
 476.622467 217.980682 0.799972 
@@ -1978,6 +2732,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.605347 684.207581 0.685031 
 421.671112 666.576172 0.724194 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 482.422607 167.017593 0.869541 
 455.038849 225.792282 0.833270 
 478.530182 214.093903 0.810300 
@@ -2004,6 +2768,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.565674 684.263550 0.655193 
 417.841431 666.552734 0.742799 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 482.455475 165.033783 0.906400 
 455.012054 223.877838 0.824818 
 478.495880 212.147217 0.842813 
@@ -2030,6 +2804,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.588318 684.295349 0.667478 
 417.792816 664.606323 0.730323 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 482.442230 163.161224 0.894730 
 454.984344 221.904419 0.795907 
 478.500214 210.189651 0.836046 
@@ -2056,6 +2840,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.583374 684.296997 0.634128 
 415.867889 662.688232 0.760059 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 482.432892 163.152603 0.895760 
 454.983429 221.904236 0.795461 
 478.499207 210.187744 0.835482 
@@ -2082,6 +2876,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 476.583191 684.285767 0.642935 
 415.882721 662.689758 0.759469 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 482.459686 163.005417 0.866549 
 456.928467 215.989899 0.779347 
 478.556793 208.130249 0.822169 
@@ -2108,6 +2912,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.488037 686.171326 0.637838 
 417.834290 662.661560 0.711135 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 482.456390 159.194656 0.847172 
 455.021179 214.059326 0.791573 
 478.542175 204.245621 0.808834 
@@ -2134,6 +2948,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.509216 684.250244 0.660801 
 419.762787 662.639954 0.683261 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 482.471497 157.192841 0.842788 
 454.987213 212.123947 0.804241 
 478.480347 202.278091 0.798016 
@@ -2160,6 +2984,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.539642 682.348328 0.662681 
 421.739014 658.775269 0.636337 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.557831 153.288315 0.861718 
 455.027710 210.173233 0.828754 
 478.533203 198.387817 0.807658 
@@ -2186,6 +3020,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.542694 684.229370 0.659705 
 427.623474 654.891357 0.669666 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.556946 153.288162 0.862172 
 455.021179 210.173965 0.828343 
 478.532410 198.384735 0.808768 
@@ -2212,6 +3056,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.543213 684.228333 0.658953 
 429.477753 654.886902 0.671441 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.511047 149.468613 0.914110 
 456.944550 210.061279 0.837464 
 478.577271 196.472702 0.823306 
@@ -2238,6 +3092,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.586487 684.208313 0.662912 
 427.553101 652.905518 0.703439 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.554230 149.399246 0.915968 
 456.931702 208.098434 0.817345 
 478.549774 196.365875 0.841933 
@@ -2264,6 +3128,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.510590 684.227051 0.653312 
 423.690216 651.013489 0.738322 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.532532 147.518524 0.913413 
 453.078827 204.230576 0.791288 
 478.464691 194.403320 0.848497 
@@ -2290,6 +3164,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.541443 682.339417 0.640356 
 425.608124 650.935059 0.741259 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.537872 147.439423 0.901700 
 453.059357 200.364105 0.783639 
 476.644104 192.476837 0.826391 
@@ -2316,6 +3200,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.537292 682.344116 0.681848 
 429.605896 650.999756 0.760544 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.540680 147.448380 0.902349 
 453.057983 200.365234 0.783425 
 476.645020 192.476425 0.826117 
@@ -2342,6 +3236,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.534210 682.342285 0.682706 
 431.455780 651.000549 0.757927 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.473022 147.331680 0.888442 
 451.137543 198.445190 0.793161 
 476.602875 190.533798 0.814806 
@@ -2368,6 +3272,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.572266 682.315308 0.672498 
 427.584045 650.898682 0.739265 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.520966 145.442551 0.872573 
 451.113190 196.512405 0.820499 
 476.579865 188.587555 0.799828 
@@ -2394,6 +3308,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.553223 682.300659 0.686629 
 429.570679 650.895691 0.751592 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.521759 143.526215 0.857992 
 451.071106 196.433487 0.842276 
 476.512482 188.563904 0.790724 
@@ -2420,6 +3344,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.510956 682.231018 0.684450 
 429.604553 649.044617 0.739903 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.513855 141.545288 0.846361 
 451.101105 196.334122 0.841845 
 476.576447 184.684341 0.775655 
@@ -2446,6 +3380,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.555084 680.372498 0.654227 
 429.487030 648.942749 0.681719 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.514435 141.546005 0.846298 
 451.101349 196.334091 0.841043 
 476.577271 184.688568 0.774863 
@@ -2472,6 +3416,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.572815 680.380310 0.661924 
 429.566711 648.971191 0.686586 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 482.417755 141.536957 0.829522 
 451.083435 194.480316 0.845217 
 476.551544 184.641815 0.779069 
@@ -2498,6 +3452,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.574036 680.356873 0.669826 
 429.605957 648.946289 0.675526 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.562897 137.610611 0.858007 
 451.098907 194.458801 0.844646 
 476.579834 182.765579 0.777500 
@@ -2524,6 +3488,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.586182 680.351929 0.684719 
 429.602570 648.896606 0.686607 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.544128 135.721329 0.867493 
 451.089966 194.352631 0.854448 
 476.611481 182.714554 0.788809 
@@ -2550,6 +3524,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 480.477417 680.367737 0.657411 
 429.590118 647.020264 0.676575 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.566956 135.696075 0.856371 
 449.205688 192.484207 0.829144 
 476.546265 182.673920 0.776730 
@@ -2576,6 +3560,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 480.496643 680.350220 0.668437 
 431.516968 646.958740 0.643775 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.566803 135.696747 0.856193 
 449.203827 192.484589 0.829691 
 476.545563 182.674347 0.775878 
@@ -2602,6 +3596,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 480.495514 680.350464 0.668099 
 431.516754 646.958191 0.644970 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.554321 135.646698 0.867581 
 449.215851 190.547455 0.821542 
 476.588074 180.806717 0.799028 
@@ -2628,6 +3632,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 480.538086 680.356323 0.666753 
 431.534912 646.941589 0.622368 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.554535 133.808502 0.878977 
 451.067047 190.539597 0.822881 
 476.595367 180.815750 0.796780 
@@ -2654,6 +3668,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 480.524658 680.355042 0.661543 
 431.504669 645.053223 0.606604 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.520660 133.702011 0.909580 
 451.065826 188.607468 0.807693 
 476.566284 180.780807 0.796648 
@@ -2680,6 +3704,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 480.524628 680.354736 0.659548 
 431.495483 645.053162 0.633305 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.501129 133.684280 0.908528 
 451.067047 190.482925 0.802765 
 476.574982 180.814621 0.768446 
@@ -2706,6 +3740,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 480.517181 680.338318 0.653925 
 431.503021 645.012085 0.623238 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.506927 133.687225 0.906878 
 451.066559 190.486359 0.803243 
 476.573425 180.823532 0.767142 
@@ -2732,6 +3776,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 480.524750 680.338623 0.657233 
 431.519531 645.028442 0.624774 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.495483 131.827591 0.881640 
 449.172638 186.615738 0.806980 
 476.503510 180.743225 0.773955 
@@ -2758,6 +3812,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 480.517975 680.343079 0.649611 
 431.493256 645.032410 0.620772 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.469879 131.759399 0.875782 
 449.156982 186.606064 0.813786 
 476.500244 180.728577 0.775618 
@@ -2784,6 +3848,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 480.500122 680.342896 0.634027 
 429.602539 645.040955 0.636861 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 478.608368 131.696854 0.861014 
 449.148621 184.696793 0.816637 
 476.479919 178.849304 0.786153 
@@ -2810,6 +3884,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 480.534576 680.340027 0.609894 
 429.590790 645.064636 0.611384 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 478.600372 131.671173 0.860837 
 449.113953 184.687119 0.823287 
 474.577820 178.843536 0.774517 
@@ -2836,6 +3920,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 480.537079 680.311523 0.616110 
 431.461945 646.943787 0.591989 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 478.599731 131.667542 0.861107 
 449.111572 184.687836 0.824139 
 474.572998 178.844070 0.773505 
@@ -2862,6 +3956,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 480.535950 680.312744 0.613577 
 431.458282 646.939514 0.593560 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 478.606445 131.682480 0.871253 
 447.285522 184.684738 0.827051 
 472.661560 178.809875 0.771196 
@@ -2888,6 +3992,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 480.486542 680.335938 0.638475 
 431.473083 647.037842 0.632949 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 478.609711 131.690704 0.861592 
 447.277649 184.680817 0.824546 
 472.609802 178.850067 0.768676 
@@ -2914,6 +4028,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 480.501678 680.371521 0.643549 
 429.552551 648.917786 0.661186 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 478.604767 131.763428 0.888241 
 447.285797 186.618195 0.812455 
 472.625610 180.711838 0.767590 
@@ -2940,6 +4064,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 480.471466 680.372131 0.618221 
 429.469299 648.978394 0.664686 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 478.626617 131.841507 0.891914 
 449.103638 186.617905 0.789292 
 470.690125 180.763092 0.751454 
@@ -2966,6 +4100,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 480.465027 680.340881 0.669538 
 429.545349 650.854675 0.664461 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 478.617432 131.833710 0.894404 
 447.291077 186.607315 0.792160 
 470.684235 180.753525 0.754918 
@@ -2992,6 +4136,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 480.462646 680.338135 0.665128 
 429.535339 649.035889 0.660018 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 478.590057 133.636124 0.904050 
 447.262543 186.626907 0.802135 
 468.740387 180.780426 0.757422 
@@ -3018,7 +4172,16 @@ Auto-detecting all available GPUs... Detected 1 GPU(s), using 1 of them starting
 478.599304 680.361267 0.638403 
 427.588135 650.862000 0.677006 
  
-Last frame read and added to queue. Closing program after it is processed.
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 478.630585 133.696991 0.902716 
 449.106873 188.561584 0.791425 
 470.713501 180.827698 0.750785 
@@ -3045,6 +4208,17 @@ Last frame read and added to queue. Closing program after it is processed.
 478.566162 682.239563 0.632963 
 427.532043 650.955139 0.663737 
  
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+Last frame read and added to queue. Closing program after it is processed.
+
+Keypoints:
+Person pose keypoints:
+Person 0 (x, y, score):
 480.470459 133.809616 0.867838 
 447.273102 190.517181 0.819924 
 470.715759 182.734955 0.740721 
@@ -3071,4 +4245,10 @@ Last frame read and added to queue. Closing program after it is processed.
 478.572876 682.261841 0.624086 
 425.603027 651.004211 0.651832 
  
-OpenPose demo successfully finished. Total time: 121.448050 seconds.
+Face keypoints: Array<T>::toString():
+
+Left hand keypoints: Array<T>::toString():
+
+Right hand keypoints: Array<T>::toString():
+
+OpenPose demo successfully finished. Total time: 9.407015 seconds.

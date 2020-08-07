@@ -1,7 +1,8 @@
 #!/bin/bash
 video_dir=./examples/media/basketball
 data_dir=./postdata
-videos=`ls ${video_dir} -tr | grep 0712`
+#videos=`ls ${video_dir} -tr | grep 0712`
+videos="curry_cs.mp4"
 echo ${videos}
 for video in ${videos}
 do
