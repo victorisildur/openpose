@@ -7,5 +7,5 @@ echo ${videos}
 for video in ${videos}
 do
     echo "processing ${video}..."
-    ./build/examples/tutorial_api_cpp/my_code.bin -video_file=${video_dir}/${video} >  ${data_dir}/${video}.data
+    ./build/examples/tutorial_api_cpp/my_code.bin -video_file=${video_dir}/${video} -write_video=${video_dir}/op_${video}>  ${data_dir}/${video}.data
 done
