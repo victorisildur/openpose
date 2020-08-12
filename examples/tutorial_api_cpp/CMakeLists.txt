@@ -1,5 +1,6 @@
 set(EXAMPLE_FILES
     my_code.cpp
+    my_hand.cpp
     01_body_from_image_default.cpp
     02_whole_body_from_image_default.cpp
     03_keypoints_from_image.cpp

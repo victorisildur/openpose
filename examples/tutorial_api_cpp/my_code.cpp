@@ -165,6 +165,7 @@ public:
                 op::opLog(" ");
                 // Alternative: just getting std::string equivalent
                 op::opLog("Right hand keypoints: " + datumsPtr->at(0)->handKeypoints[1].toString());
+                
 
                 // Display results (if enabled)
                 if (!FLAGS_no_display)
